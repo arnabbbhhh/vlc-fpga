@@ -1,7 +1,7 @@
 # Visible Light Communication (VLC) Using FPGA
 
 > **B.Tech Project (BTP) | LNMIIT Jaipur | Supervisor: Dr. Nishant Gupta & Dr. Harish C. Kumawat**  
-> **Team:** Arnab Harsh (22UEC024), Shivam Choudhary (22UEC124), Somil Malik (22UEC134)
+> **Team:** Arnab Harsh (22UEC024)
 
 ---
 
